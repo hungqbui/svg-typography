@@ -1,0 +1,136 @@
+{
+    "width": 1080.0,
+    "height": 1080.0,
+    "elements": [
+        {
+            "type": "text",
+            "content": "Liceria & co.",
+            "bounds": [
+                0.013,
+                0.183,
+                0.083,
+                0.142
+            ]
+        },
+        {
+            "type": "text",
+            "content": "NEW",
+            "bounds": [
+                0.035,
+                0.146,
+                0.192,
+                0.293
+            ]
+        },
+        {
+            "type": "text",
+            "content": "FASHION",
+            "bounds": [
+                0.035,
+                0.191,
+                0.293,
+                0.403
+            ]
+        },
+        {
+            "type": "text",
+            "content": "COLLECTION",
+            "bounds": [
+                0.035,
+                0.191,
+                0.403,
+                0.524
+            ]
+        },
+        {
+            "type": "text",
+            "content": "Orders placed after 3pm",
+            "bounds": [
+                0.035,
+                0.146,
+                0.561,
+                0.644
+            ]
+        },
+        {
+            "type": "text",
+            "content": "are delivered the next day.",
+            "bounds": [
+                0.035,
+                0.146,
+                0.644,
+                0.74
+            ]
+        },
+        {
+            "type": "text",
+            "content": "Call or order online now!",
+            "bounds": [
+                0.035,
+                0.146,
+                0.74,
+                0.84
+            ]
+        },
+        {
+            "type": "text",
+            "content": "SHOP NOW",
+            "bounds": [
+                0.083,
+                0.191,
+                0.264,
+                0.315
+            ]
+        },
+        {
+            "type": "text",
+            "content": "Contact Us:",
+            "bounds": [
+                0.035,
+                0.146,
+                0.84,
+                0.908
+            ]
+        },
+        {
+            "type": "text",
+            "content": "123-456-7890",
+            "bounds": [
+                0.083,
+                0.191,
+                0.908,
+                0.967
+            ]
+        },
+        {
+            "type": "text",
+            "content": "www.eallygreatsite.com",
+            "bounds": [
+                0.083,
+                0.191,
+                0.967,
+                1.026
+            ]
+        },
+        {
+            "type": "text",
+            "content": "123 Anywhere St., Any City",
+            "bounds": [
+                0.083,
+                0.191,
+                1.026,
+                1.085
+            ]
+        },
+        {
+            "type": "image",
+            "content": null,
+            "bounds": [
+                0.135,
+                0.457,
+                0.865,
+                1.085
+            ]
+        }
+    ]
+}

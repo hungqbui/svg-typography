@@ -1,0 +1,26 @@
+{
+    "width": 1500.0,
+    "height": 500.0,
+    "elements": [
+        {
+            "type": "text",
+            "content": "What Is Love?",
+            "bounds": [
+                0.0,
+                0.57143,
+                0.30769,
+                0.45238
+            ]
+        },
+        {
+            "type": "text",
+            "content": "Baby, don't hurt me.",
+            "bounds": [
+                0.0,
+                0.35714,
+                0.45238,
+                0.53846
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+svgpathtools
+imgkit
+beautifulsoup4
+google-generativeai
+requests
+python-dotenv
+transformers
+torch 
+torchvision 
+torchaudio

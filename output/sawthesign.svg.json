@@ -1,0 +1,26 @@
+{
+    "width": 1500.0,
+    "height": 500.0,
+    "elements": [
+        {
+            "type": "text",
+            "content": "I Saw The Sign.",
+            "bounds": [
+                0.13333,
+                0.63333,
+                0.25,
+                0.4
+            ]
+        },
+        {
+            "type": "text",
+            "content": "And it opened up my mind!",
+            "bounds": [
+                0.13333,
+                0.66667,
+                0.4,
+                0.55
+            ]
+        }
+    ]
+}
