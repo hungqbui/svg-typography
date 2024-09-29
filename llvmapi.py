@@ -32,6 +32,7 @@ def detect_object(base64, bounds):
         Element = {{
             type: str (type of the element text, image, etc)
             content: str (content of the element if the element is text)
+            bounds: list[float] (match with the exact bounding box's edges of the element provided scaled 0-1, keep precision to 5 decimal places)
         }}
 
         Return: list[Element]
