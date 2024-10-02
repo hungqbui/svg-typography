@@ -101,3 +101,6 @@ def svg2base64(svg_path):
 
         return res.text
     
+def get_text(root):
+    texts = root.find_all("text")
+    print([text.find("tspan").contents[0] for text in texts])
